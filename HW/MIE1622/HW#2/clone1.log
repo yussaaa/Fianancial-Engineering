@@ -1,0 +1,99 @@
+
+Log for 'min_Variance' Clone_1 (V12.8.0.0) Sat Mar 16 18:06:19 2019
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.02 ticks)
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+Tried aggregator 0 times.
+QP Presolve added 0 rows and 20 columns.
+Reduced QP has 21 rows, 40 columns, and 250 nonzeros.
+Reduced QP objective Q matrix has 20 nonzeros.
+Presolve time = 0.00 sec. (0.03 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 210
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.01 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 21
+  Integer space required    = 21
+  Total non-zeros in factor = 231
+  Total FP ops to factor    = 3311
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf          
+   0   7.7091078e-05  -7.7091078e-05  2.07e+02  0.00e+00  2.00e+04
+   1   7.7143936e-05  -9.9002504e+02  3.70e-07  0.00e+00  3.58e-05
+   2   7.7143930e-05  -4.9501127e+00  1.85e-09  0.00e+00  1.79e-07
+   3   7.7142861e-05  -2.4743235e-01  2.30e-16  0.00e+00  2.44e-14
+   4   7.7121552e-05  -1.2298353e-02  2.32e-16  0.00e+00  5.60e-16
+   5   7.6704367e-05  -5.4207165e-04  2.34e-16  0.00e+00  4.72e-17
+   6   7.0929693e-05   1.7952058e-05  7.82e-18  0.00e+00  3.93e-18
+   7   5.0689010e-05   3.2985075e-05  7.70e-18  0.00e+00  4.06e-19
+   8   4.6756158e-05   4.4500080e-05  5.19e-18  0.00e+00  2.76e-19
+Barrier time = 0.02 sec. (0.19 ticks)
+Barrier time = 0.02 sec. (0.19 ticks)
+
+Total time on 3 threads = 0.05 sec. (95.61 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'max_Sharpe' Clone_1 (V12.8.0.0) Sat Mar 16 18:06:24 2019
+
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.02 ticks)
+Number of nonzeros in lower triangle of Q = 190
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 20
+  Integer space required    = 20
+  Total non-zeros in factor = 210
+  Total FP ops to factor    = 2870
+Tried aggregator 0 times.
+QP Presolve added 0 rows and 20 columns.
+Reduced QP has 21 rows, 40 columns, and 250 nonzeros.
+Reduced QP objective Q matrix has 20 nonzeros.
+Presolve time = 0.00 sec. (0.03 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 210
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.01 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 21
+  Integer space required    = 21
+  Total non-zeros in factor = 231
+  Total FP ops to factor    = 3311
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf          
+   0   1.1641562e+02  -1.1641562e+02  1.78e+02  0.00e+00  2.01e+04
+ Barrier aborted.
+Barrier time = 0.00 sec. (0.07 ticks)
+Barrier time = 0.00 sec. (0.07 ticks)
+
+Total time on 3 threads = 0.00 sec. (95.51 ticks)
+
+Dual simplex solved model.
+
